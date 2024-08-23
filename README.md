@@ -77,25 +77,10 @@ npm start
 
 This will launch the application in your default web browser. By default, it will be accessible at `http://localhost:3000`.
 
-## Usage
 
-### Web Demo
 
-The demo features a welcome section that introduces the project and highlights its features. There’s also a "Contact" button that opens an email prompt to contact Tamer Senan.
 
-### Contact Button
 
-Clicking on the "Contact" button will open your default email client with a pre-addressed email to `tamersaeedsenan@gmail.com`.
 
-## Contributing
 
-If you’d like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-For any questions or inquiries, please reach out via email at tamersaeedsenan@gmail.com.
 
